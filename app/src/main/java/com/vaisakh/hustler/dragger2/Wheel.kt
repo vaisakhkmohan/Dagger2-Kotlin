@@ -8,4 +8,9 @@ class Wheel {
     constructor(){
 
     }
+    
+     fun start(){
+        Log.e(TAG, "Wheel start: " )
+    }
+    
 }
