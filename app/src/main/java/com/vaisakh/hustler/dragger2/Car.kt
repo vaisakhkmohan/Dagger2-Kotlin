@@ -15,6 +15,7 @@ class Car {
     }
 
     fun start(){
-
+        engine.start()
+        wheel.start()
     }
 }
