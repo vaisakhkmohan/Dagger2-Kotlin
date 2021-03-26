@@ -8,4 +8,9 @@ class Engine {
     constructor(){
 
     }
+
+ fun start(){
+        Log.e(TAG, "engine start: " )
+    }
+
 }
